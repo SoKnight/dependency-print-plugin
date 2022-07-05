@@ -6,7 +6,7 @@
 
     <groupId>me.soknight.maven.plugins</groupId>
     <artifactId>dependency-print-plugin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>maven-plugin</packaging>
 
     <name>Dependency Print Maven Plugin</name>
